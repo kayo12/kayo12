@@ -16,7 +16,6 @@
 <p > Atualmente estou estudando uma trilha de aprendizagem em: </p>
 
 &nbsp;
-&nbsp;
 
 <div align="left">
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
