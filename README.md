@@ -1,11 +1,11 @@
 
 
-<h2 align="center">Hello World, me chamo Kayo</h2>
+<h2 align="center">Hello World, me chamo Kayo :earth_americas: :milky_way:</h2>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kayo12&label=Profile%20views&color=0e75b6&style=flat" alt="kayo12" /> </p>
 
-### <p align="center">Um desenvolvedor em construção...</p>
+ <p align="center">Um desenvolvedor em construção... :computer: </p> 
 
 <p align="center">
 <img  widht="230px" height="230px" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
