@@ -1,6 +1,6 @@
 <h3 align="center">Um desenvolvedor em construção...</h3>
 
-- Aprendendo novas tecnologias como desenvolvedor front-end em busca de novas experiencias **React,Nextjs,Typescrypt e Node**
+- Aprendendo novas tecnologias como desenvolvedor front-end em busca de novas experiencias no mercado**React,Nextjs,Typescrypt e Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
