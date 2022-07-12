@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kayo12&label=Profile%20views&color=0e75b6&style=flat" alt="kayo12" /> </p>
 
-<h3 align="center" >Aprendendo novas tecnologias como Dev front-end e futuramente Dev back-end </h3>
+<h3 align="left" >Aprendendo novas tecnologias como Dev front-end e futuramente Dev back-end </h3>
 <p> Atualmente estou estudando uma trilha de aprendizagem em: </p>
 
 
