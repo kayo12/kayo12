@@ -5,10 +5,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kayo12&label=Profile%20views&color=0e75b6&style=flat" alt="kayo12" /> </p>
 
-<h3 align="center">Um desenvolvedor em construção...</h3>
+### <p align="center">Um desenvolvedor em construção...</p>
 
 <p align="center">
-<img  widht="250px" height="250px" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
+<img  widht="230px" height="230px" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 </p>
 
 <h3 align="left" >Aprendendo novas tecnologias como Dev front-end e futuramente Dev back-end </h3>
