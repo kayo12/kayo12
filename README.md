@@ -11,13 +11,14 @@
 <img  widht="230px" height="230px" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 </p>
 
-<h3 align="left" >Aprendendo novas tecnologias como Dev front-end e futuramente Dev back-end </h3>
+<h3 align="center" >Aprendendo novas tecnologias como Dev front-end e back-end em busca de experiencias e aprendizado no mercado de desenvolvimento  </h3>
 
-<p > Atualmente estou estudando uma trilha de aprendizagem em: </p>
 
 &nbsp;
 
 <div align="center">
+ 
+ <p > Atualmente estou estudando uma trilha de aprendizagem em: </p>
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
