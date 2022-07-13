@@ -5,7 +5,6 @@
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=kayo12&label=Profile%20views&color=0e75b6&style=flat" alt="kayo12" />
-<img src="https://img.shields.io/github/commit-activity/m/kayo12/kayo12">
 </p>
 
  <h3 align="center">Um desenvolvedor em construção...  </3>
