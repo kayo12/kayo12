@@ -14,7 +14,10 @@
 </p>
 
 <h4 align="center" >Aprendendo novas tecnologias em busca de experiências e aprendizado no mercado de desenvolvimento </h4>
+<p>
+Fascinado pela área de tecnologia há mais de 6 anos, buscando contribuir todos esses anos com inovações e melhorias na parte de tecnologia e desenvolvimento da carreira profissional. Proativo e ambicioso para atingir minhas metas, responsabilidades. Comprometimento, organização e trabalho em equipe são outros pontos de destaque. <p>
 
+<p> Sempre que tenho oportunidade gosto de automatizar alguns processos através de ferramentas como Power Shell e scripts em Javascript, ou Node.js. Para host, nada melhor que um bom script, que possa automatizar um processo e contribuir a equipe. Também utilizo o SQL para otimizar e analisar melhores processos.</p>
 
 &nbsp;
 
