@@ -25,7 +25,7 @@ Fascinado pela área de tecnologia há mais de 6 anos, buscando contribuir todos
 
 <div align="center">
  
- <h3 > Atualmente estou estudando uma trilha de aprendizagem em: </h3>
+ <h4 > Atualmente estou estudando uma trilha de aprendizagem em: </h4>
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -38,7 +38,7 @@ Fascinado pela área de tecnologia há mais de 6 anos, buscando contribuir todos
 &nbsp;
 
 
-<h3 align="center">Minhas skills e Tools que utilizo:</h3>
+<h4 align="center">Minhas skills e Tools que utilizo:</h4>
 
 <p align="center"> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
