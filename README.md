@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hello World, me chamo Kayo :earth_americas: :milky_way:</h2>
+<h2 align="center">Hello World, eu sou o Kayo :earth_americas: :milky_way:</h2>
 
 
 <p align="center">
