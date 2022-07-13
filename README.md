@@ -55,11 +55,16 @@ Fascinado pela área de tecnologia há mais de 6 anos, buscando contribuir todos
 &nbsp;
 &nbsp;
 
+
+
 <p  align="center" >
 <img  align="center" width="40%" height src="https://github-readme-stats.vercel.app/api/top-langs?username=kayo12&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="kayo12" />&nbsp;
 <img  align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=kayo12&show_icons=true&theme=merko&locale=en" alt="kayo12" />
 
 </p>
+
+
+
 
 
 
