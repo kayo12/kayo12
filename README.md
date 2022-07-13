@@ -7,7 +7,7 @@
  <img src="https://komarev.com/ghpvc/?username=kayo12&label=Profile%20views&color=0e75b6&style=flat" alt="kayo12" />
 </p>
 
- <h3 align="center">Um desenvolvedor em construção...  </3>
+ <h3 align="center">Um desenvolvedor em construção... :rocket: </3>
  
  &nbsp;
 
