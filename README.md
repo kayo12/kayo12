@@ -13,7 +13,7 @@
  <img  widht="230px" height="230px" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 </p>
 
-<h4 align="center" >Aprendendo novas tecnologias como Dev front-end e back-end em busca de experiencias e aprendizado no mercado de desenvolvimento  </h4>
+<h4 align="center" >Aprendendo novas tecnologias em busca de experiencias e aprendizado no mercado de desenvolvimento </h4>
 
 
 &nbsp;
@@ -26,6 +26,7 @@
  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+ <img height="32" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NEXT.JS"/>
 </div>
 
 &nbsp;
