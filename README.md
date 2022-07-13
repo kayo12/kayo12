@@ -25,7 +25,7 @@ Fascinado pela área de tecnologia há mais de 6 anos, buscando contribuir todos
 
 <div align="center">
  
- <p > Atualmente estou estudando uma trilha de aprendizagem em: </p>
+ <h3 > Atualmente estou estudando uma trilha de aprendizagem em: </h3>
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
