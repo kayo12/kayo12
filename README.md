@@ -13,7 +13,7 @@
  <img  widht="230px" height="230px" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 </p>
 
-<h4 align="center" >Aprendendo novas tecnologias em busca de experiencias e aprendizado no mercado de desenvolvimento </h4>
+<h4 align="center" >Aprendendo novas tecnologias em busca de experiências e aprendizado no mercado de desenvolvimento </h4>
 
 
 &nbsp;
