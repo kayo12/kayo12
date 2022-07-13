@@ -38,7 +38,7 @@ Fascinado pela área de tecnologia há mais de 6 anos, buscando contribuir todos
 &nbsp;
 
 
-<h3 align="center">skills and Tools:</h3>
+<h3 align="center">Minhas skills e Tools que utilizo:</h3>
 
 <p align="center"> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
