@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hello World :earth_americas: :milky_way:</h2>
+<h2 align="center">Hello, My Friend :earth_americas: :milky_way:</h2>
 
 
 <p align="center">
