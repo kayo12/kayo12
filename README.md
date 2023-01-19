@@ -7,25 +7,24 @@
  <img src="https://komarev.com/ghpvc/?username=kayo12&label=Profile%20views&color=0e75b6&style=flat" alt="kayo12" />
 </p>
 
- <h3 align="center">Um desenvolvedor em construção... :rocket: </3>
+ <h3 align="center">A developer under construction... :rocket: </3>
  
  &nbsp;
 
 <p align="center">
  <img  widht="230px" height="230px" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 </p>
-
-<h4 align="center" >Aprendendo novas tecnologias em busca de experiências e aprendizado no mercado de desenvolvimento </h4>
 <p>
-Fascinado pela área de tecnologia há mais de 6 anos, buscando contribuir todos esses anos com inovações e melhorias na parte de tecnologia e desenvolvimento da carreira profissional. Proativo e ambicioso para atingir minhas metas, responsabilidades. Comprometimento, organização e trabalho em equipe são outros pontos de destaque. <p>
+ Building my career in the technology area for over 6 years, I seek to contribute all these years with innovations and improvements in technology and professional career development. Proactive and ambitious to achieve my goals, responsibilities. Commitment, organization and teamwork are other highlights. <p>
 
-<p> Sempre que tenho oportunidade gosto de automatizar alguns processos através de ferramentas como Power Shell e scripts em Javascript, ou Node.js. Para host, nada melhor que um bom script, que possa automatizar um processo e contribuir a equipe. Também utilizo o SQL para otimizar e analisar melhores processos.</p>
+<p> Whenever I have the opportunity, I like to automate some processes using tools like Power Shell and Javascript scripts, or Node.js. For a host, nothing better than a good script that can automate a process and contribute to the team. I also use SQL to optimize and analyze better processes.</p>
 
 &nbsp;
 
 <div align="center">
  
- <h4 > Atualmente estou estudando uma trilha de aprendizagem em: </h4>
+ <h4 > 
+I am currently studying a learning path in: </h4>
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -38,7 +37,7 @@ Fascinado pela área de tecnologia há mais de 6 anos, buscando contribuir todos
 &nbsp;
 
 
-<h4 align="center">Minhas skills e Tools que utilizo:</h4>
+<h4 align="center">My skills and tools I use:</h4>
 
 <p align="center"> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
